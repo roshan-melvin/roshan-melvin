@@ -24,7 +24,7 @@ Linux Kernel, NVMe Sanitize, Hardware Cryptography — [github.com/roshan-melvin
 *1000x faster erasure (2 sec), NIST SP 800-88 compliant, military-grade security with GDPR/DOD standards*
 
 **Titan Assistant** — Backend service for embedded device control and authentication  
-Python, Flask, ROS2, TensorFlow Lite — [github.com/roshan-melvin/titan](https://github.com/roshan-melvin/titan)
+Python, Flask, ROS2, TensorFlow Lite — [github.com/roshan-melvin/Titan_Personal_Assistant](https://github.com/roshan-melvin/Titan_Personal_Assistant)
 
 ---
 
