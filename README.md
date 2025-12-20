@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Roshan 👋
 
-<!--
-**roshan-melvin/roshan-melvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Final-year Computer Science student
+- Python developer interested in DevOps and backend systems
+- Experience with Linux, Git, Docker, Flask, FastAPI
+- Previously interned in Web Development & UI/UX
+- Preparing for Google Summer of Code 2026
+- Actively contributing to open-source projects
 
-Here are some ideas to get you started:
+### Tech Stack:
+Python, Java, Linux, Git, Docker, Bash  
+Flask, FastAPI, MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning:
+CI/CD, Cloud fundamentals
