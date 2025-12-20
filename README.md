@@ -2,7 +2,7 @@
 
 Python backend engineer. Building systems and contributing to open-source.
 
-Focus: Python, FastAPI/Flask, DevOps, Docker. Also work with IoT/robotics stacks (ROS2, embedded systems).
+Focus: Java, Python, FastAPI/Flask, DevOps, Docker. Also work with IoT/robotics stacks (ROS2, embedded systems).
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roshan-melvin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-melvin-tyech5/)
