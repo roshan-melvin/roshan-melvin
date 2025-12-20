@@ -1,4 +1,4 @@
-# Roshan
+# Hi there, I'm Roshan Melvin G A 👋
 
 Python backend engineer. Building systems and contributing to open-source.
 
@@ -13,11 +13,15 @@ Focus: Python, FastAPI/Flask, DevOps, Docker. Also work with IoT/robotics stacks
 
 ## Things I Build
 
-**Smart Valve System** — Real-time IoT data pipeline with predictive analytics  
-Python, MQTT, machine learning — [github.com/roshan-melvin/smart-valve](https://github.com/roshan-melvin/smart-valve)
+**IEEE-HKN Budget Management System** — Full-stack budget management platform for IEEE HKN chapters  
+React, Node.js, Express, MySQL, Docker — [github.com/roshan-melvin/ieee-hkn-budget](https://github.com/roshan-melvin/ieee-hkn-budget)
 
-**SelfeMix** — Computer vision pipeline for image attribute detection  
-Python, TensorFlow, OpenCV — [github.com/roshan-melvin/SelfeMix](https://github.com/roshan-melvin/SelfeMix)
+**Selfiemtrx** — Computer vision pipeline for image attribute detection  
+Python, TensorFlow, OpenCV — [github.com/roshan-melvin/Selfiemtrx](https://github.com/roshan-melvin/Selfiemtrx)
+
+**TYECH Secure Eraser** — Enterprise-grade kiosk mode ISO boot image for secure data destruction  
+Linux Kernel, NVMe Sanitize, Hardware Cryptography — [github.com/roshan-melvin/tyech-secure-eraser](https://github.com/roshan-melvin/tyech-secure-eraser)  
+*1000x faster erasure (2 sec), NIST SP 800-88 compliant, military-grade security with GDPR/DOD standards*
 
 **Titan Assistant** — Backend service for embedded device control and authentication  
 Python, Flask, ROS2, TensorFlow Lite — [github.com/roshan-melvin/titan](https://github.com/roshan-melvin/titan)
@@ -65,6 +69,28 @@ Open to:
 
 ---
 
+## Contributed Organizations
+
+- Contributing to open-source projects in backend systems, IoT, and DevOps
+- Active in technical discussions and code reviews
+- Collaborating on real-world problems and implementations
+
+---
+
 ## Hackathons & Recognition
 
 DeepBlue AI Hackathon, Hack4Purpose, iGen Hackathon, IEEE HKN Hackathon
+
+---
+
+## Good Profile, But Where Is the Collaboration?
+
+I'm here to work on real problems. Open an issue, start a discussion, or send a PR.
+
+**Ways to reach out:**
+- Found a bug? File an issue  
+- Have a feature idea? Let's discuss  
+- Want to review or contribute? I'm in  
+- Technical questions? Always happy to talk  
+
+Let's build something together.
