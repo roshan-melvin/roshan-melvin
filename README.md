@@ -26,11 +26,31 @@ Python, Flask, ROS2, TensorFlow Lite — [github.com/roshan-melvin/titan](https:
 
 ## Skills
 
-**Backend:** Python, FastAPI, Flask, REST APIs, system design  
-**DevOps:** Docker, CI/CD, Git, Linux, deployment automation  
-**Data:** TensorFlow, OpenCV, data pipelines, ML model integration  
-**Embedded/IoT:** ROS2, Arduino, ESP32, MQTT, C++  
-**Web:** JavaScript, HTML5, CSS3, responsive design
+**Backend:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=flat&logoColor=white)
+
+**Data & ML:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+**Embedded/IoT:**  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Web:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
