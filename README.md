@@ -21,7 +21,7 @@ React, Node.js, Express, MySQL, Docker — [github.com/roshan-melvin/ieee-hkn-bu
 Python, TensorFlow, OpenCV — [github.com/roshan-melvin/Selfiemtrx](https://github.com/roshan-melvin/Selfiemtrx)
 
 **TYECH Secure Eraser** — Enterprise-grade kiosk mode ISO boot image for secure data destruction  
-Linux Kernel, NVMe Sanitize, Hardware Cryptography — [github.com/roshan-melvin/tyech-secure-eraser](https://github.com/roshan-melvin/tyech-secure-eraser)  
+Linux Kernel, NVMe Sanitize, Hardware Cryptography — [github.com/roshan-melvin/tyech-secure-eraser](https://github.com/roshan-melvin/Tyech-Erase)  
 *1000x faster erasure (2 sec), NIST SP 800-88 compliant, military-grade security with GDPR/DOD standards*
 
 **Titan Assistant** — Backend service for embedded device control and authentication  
