@@ -9,6 +9,7 @@ Focus: Java, Python, FastAPI/Flask, DevOps, Docker. Also work with IoT/robotics 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rockshanga@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/RoshanMelvin/)
 [![SkillRack](https://img.shields.io/badge/SkillRack-4CAF50?style=flat-square&logoColor=white)](http://www.skillrack.com/profile/442140/989acb8f76e066e307d8e739805ac2e683ed43c6)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rocroshanga)
 
 ---
 
